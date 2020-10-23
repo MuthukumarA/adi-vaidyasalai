@@ -620,6 +620,14 @@ section {
   position: relative;
 }
 
+.inner-highlight p {
+  font-size: 20px;
+  font-weight: bold;
+  position: relative;
+
+  margin-top: 20px;
+}
+
 .section-title h2::before {
   content: "";
   position: absolute;
